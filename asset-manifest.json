@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/.github.io/portfolio/static/css/main.b40372dd.css",
+    "main.js": "/.github.io/portfolio/static/js/main.90bd9a4f.js",
+    "static/js/787.57552939.chunk.js": "/.github.io/portfolio/static/js/787.57552939.chunk.js",
+    "static/media/bg.png": "/.github.io/portfolio/static/media/bg.d63cfd51f1a63591fdd7.png",
+    "static/media/game_over.wav": "/.github.io/portfolio/static/media/game_over.3894918f7585f9300350.wav",
+    "static/media/click.wav": "/.github.io/portfolio/static/media/click.450b31dca5ff2247781d.wav",
+    "static/media/headshot.jpg": "/.github.io/portfolio/static/media/headshot.3c9f33a10c8acdf8b036.jpg",
+    "static/media/helvetica-neu.ttf": "/.github.io/portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff": "/.github.io/portfolio/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
+    "static/media/LaBelleAurore.woff2": "/.github.io/portfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/tic.png": "/.github.io/portfolio/static/media/tic.2cb94443317f8860ac98.png",
+    "static/media/CoolveticaRg-Regular.woff": "/.github.io/portfolio/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
+    "static/media/LogoKG.jpg": "/.github.io/portfolio/static/media/LogoKG.876c34e04140577f0f60.jpg",
+    "static/media/CoolveticaRg-Regular.woff2": "/.github.io/portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "static/media/Pixel-LCD-7 (1).woff": "/.github.io/portfolio/static/media/Pixel-LCD-7 (1).63d9c15192fdeab6d3a6.woff",
+    "index.html": "/.github.io/portfolio/index.html",
+    "main.b40372dd.css.map": "/.github.io/portfolio/static/css/main.b40372dd.css.map",
+    "main.90bd9a4f.js.map": "/.github.io/portfolio/static/js/main.90bd9a4f.js.map",
+    "787.57552939.chunk.js.map": "/.github.io/portfolio/static/js/787.57552939.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b40372dd.css",
+    "static/js/main.90bd9a4f.js"
+  ]
+}
