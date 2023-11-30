@@ -20,7 +20,6 @@ function App() {
         <Route path="/games" element={<Games />} />
         <Route path="/games/tetris" element={<Tetris />} />
         <Route path="/games/tictactoe" element={<TicTacToe />} />
-          {/* <Route path="/dashboard" element={<Dashboard />} /> */}
         </Route>
       </Routes>
     </>
