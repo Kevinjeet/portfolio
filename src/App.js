@@ -1,4 +1,4 @@
-import { BrowserRouter, Route, Routes } from 'react-router-dom'
+import { Route, Routes } from 'react-router-dom'
 import Home from './components/Home'
 import About from './components/About'
 import Contact from './components/Contact'
@@ -12,7 +12,7 @@ import './App.scss'
 function App() {
   return (
 
-      <BrowserRouter basename={process.env.PUBLIC_URL}>
+      <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />
           <Route path="/about" element={<About />} />
@@ -21,7 +21,7 @@ function App() {
         <Route path="/games/tetris" element={<Tetris />} />
         <Route path="/games/tictactoe" element={<TicTacToe />} />
         </Route>
-      </BrowserRouter>
+      </Routes>
 
   )
 }
